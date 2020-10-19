@@ -5,9 +5,9 @@
 </p>
 
 # Wilson Nogueira
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Medical Student that inovates the healthcare research with Data Science and Predictive Analysis</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+As a medical student I'm working in 
 
 Medical Student from "Universidade Estadual do Piauí".
 
